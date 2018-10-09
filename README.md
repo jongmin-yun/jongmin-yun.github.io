@@ -5,7 +5,7 @@ I'm trying to publish my blog via this github.
   * I learned markdown via this link [GIST_github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ## Tasks
-* [ ] make a github page
+* [x] make a github page
 - [ ] learn how to use github itself
 
 
