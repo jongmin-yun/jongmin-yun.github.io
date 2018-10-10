@@ -7,4 +7,5 @@ I'm trying to publish my blog via this github.
 ## Tasks
 * [x] make a github page ([Official github pages instruction](https://pages.github.com/))
 * [ ] Install the Ruby Jekyll ([Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html))
+* Jekyll theme has been chosen in 'Setting' menu in the current git hub repository.
 * [ ] learning how to use github itself ([Korean explanation](https://backlog.com/git-tutorial/kr/intro/intro4_2.html))
