@@ -6,7 +6,7 @@ I'm trying to publish my blog via this github.
 
 ## Tasks
 * [x] make a github page
-* [ ] Install the Ruby Jekyll [Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html)
+* [ ] Install the Ruby Jekyll ([Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html))
 * [ ] learning how to use github itself
 
 
