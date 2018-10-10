@@ -2,11 +2,11 @@
 I'm trying to publish my blog via this github.
 
 * I'm not used to do this now but I'll make it.
-  * I learned markdown via this link [GIST_github](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  * I learned markdown via this link ([GIST_github](https://gist.github.com/ihoneymon/652be052a0727ad59601))
 
 ## Tasks
 * [x] make a github page
-* [ ] Install the Ruby Jekyll ([Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html))
+* [ ] Install the Ruby Jekyll ([Official github pages instruction](https://pages.github.com/),[Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html))
 * [ ] learning how to use github itself
 
 
