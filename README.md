@@ -8,24 +8,3 @@ I'm trying to publish my blog via this github.
 * [x] make a github page ([Official github pages instruction](https://pages.github.com/))
 * [ ] Install the Ruby Jekyll ([Korean explanation](https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-1.html))
 * [ ] learning how to use github itself ([Korean explanation](https://backlog.com/git-tutorial/kr/intro/intro4_2.html))
-
-
----
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
----
-> This is a blockqute.
->> This is a blockqute.
->>> This is a blockqute.
----
-- [x] this is a complete item
-- [ ] this is an incomplete item
----
-*italic* **bold** `shaded` ~cancelline~
-```
-code block
-```
